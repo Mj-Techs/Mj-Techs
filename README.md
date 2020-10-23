@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/Mj-Techs/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 ### Hi there 👋
 
@@ -29,4 +29,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/@Mrityu_njay
-[2]: https://www.linkedin.com/in/mrityunjay-kumar-432b5215a/
+[2]: https://www.linkedin.com/in/mrityunjay-kumar/
