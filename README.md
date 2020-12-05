@@ -16,7 +16,7 @@
 
 <!-- Actual text -->
 - i'm also available on <a href="https://dev.to/mjtechs">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mrityunjay's DEV Profile" height="50" width="50">
+  <i class="fab fa-dev" title="mjtechs's DEV Profile"></i>
 </a>
       
 
