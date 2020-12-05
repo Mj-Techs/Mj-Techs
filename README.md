@@ -15,9 +15,10 @@
 -->
 
 <!-- Actual text -->
-- i'm also available on <a href="https://dev.to/mjtechs">
-  <i class="fab fa-dev" title="mjtechs's DEV Profile"></i>
+- i'm also available on<a href="https://dev.to/mjtechs">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mrityunjay's DEV Profile" height="50" width="50">
 </a>
+      
       
 
 You can find me on [![Twitter][1.2]][1]
