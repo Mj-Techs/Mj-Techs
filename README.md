@@ -15,9 +15,9 @@
 -->
 
 <!-- Actual text -->
-
+i'm also available at 
 <a href="https://dev.to/mjtechs">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mrityunjay's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mrityunjay's DEV Profile" height="50" width="50">
 </a>
       
 
