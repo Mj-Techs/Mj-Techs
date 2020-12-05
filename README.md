@@ -15,7 +15,11 @@
 -->
 
 <!-- Actual text -->
-[![Mrityunjay's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/mjtechs)
+
+<a href="https://dev.to/mjtechs">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mrityunjay's DEV Profile" height="30" width="30">
+</a>
+      
 
 You can find me on [![Twitter][1.2]][1]
 
