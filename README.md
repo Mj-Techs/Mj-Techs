@@ -1,34 +1,42 @@
 
 
-### Hi there 👋
+<h2> Hi there 👋, I’m Mrityunjay Kumar!</h2>
 
+<h3> 👨🏻‍💻 About Me </h3>
 
-<!--**Mj-Techs/Mj-Techs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+- 🕸️ &nbsp; Passionate about the **Web (WWW)** and I yearn to **simplify web for everyone**.
+- 🔭 &nbsp; Currently working on **Front-End Development (Javascript, React, Redux)** .
+- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🌱 I’m currently learning ReactJs
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
 
-<!-- Actual text -->
-- i'm also available on<a href="https://dev.to/mjtechs">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mrityunjay's DEV Profile" height="50" width="50">
-</a>
-      
-      
+- 💻 &nbsp; JavaScript | ES6 
+- 🌐 &nbsp; HTML | CSS | ReactJS |Redux 
+- 🔧 &nbsp; Git | Postman | Styled-Component
 
-- You can find me on [![Twitter][1.2]][1]
+<h3> 🤝🏻 Connect with Me </h3>
 
-<!-- Icons -->
+<p align="center">
+<a href="https://www.linkedin.com/in/mrityunjay-kumar-432b5215a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mrityunjay%20Kumar-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:krmrityunjay98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-krmrityunjay98%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+### Languages and Tools:
 
-<!-- Links to your social media accounts -->
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-[1]: https://twitter.com/@Mrityu_njay
-[2]: https://www.linkedin.com/in/mrityunjay-kumar-432b5215a/
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
+<br/>
+<br/>
+
+###
+![Mrityunjay's github stats](https://github-readme-stats.vercel.app/api?username=Mj-Techs&show_icons=true&theme=radical&bg_color=#ffffff)
